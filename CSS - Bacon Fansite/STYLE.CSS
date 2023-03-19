@@ -1,0 +1,24 @@
+h1{
+    color:RED;
+    font-size: 20;
+}
+
+/* img{
+    background-color: #EAF6F6;
+} */
+
+.a{
+    background-color: slateblue;
+}
+
+.b{
+    background-color: black;
+}
+
+#head{
+    color: turquoise;
+}
+
+.circular{
+    border-radius: 0;
+}
