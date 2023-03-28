@@ -3,9 +3,9 @@ h1{
     font-size: 20;
 }
 
-/* img{
-    background-color: #EAF6F6;
-} */
+img:hover{
+    background-color: #64d408;
+}
 
 .a{
     background-color: slateblue;
